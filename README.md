@@ -1,1 +1,1 @@
-# cnn-architectures
+# CNN architectures
