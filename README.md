@@ -1,1 +1,3 @@
 # CNN architectures
+
+Will be updated with over time, stay tuned...
