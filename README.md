@@ -1,3 +1,3 @@
 # CNN architectures
 
-Will be updated over time, stay tuned...
+Implementation of some popular ConvNet architectures.
